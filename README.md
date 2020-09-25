@@ -4,7 +4,8 @@
 ![](https://i.imgur.com/6iFAMLn.jpg)
 
 
-This has been a great challenge for learning React and I'm learning a ton. That said it is not yet in a finished state. There is no local persistent data storage method though I believe I will be able to create one using hooks and states, and the edit/add/delete features don't work yet on the tables. I have a plan for the missing methods involving bubbling up events through the component states using hooks but I've still got some learning to do.
+This has been a great challenge for learning React and I'm learning a ton. 
+
 
 ## How to run
 
