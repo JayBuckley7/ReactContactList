@@ -15,8 +15,6 @@ This app is written in native react and can be run with following the following 
 ```
 git clone https://github.com/JayBuckley7/ReactContactList.git
 cd ReactContactList
+npm install react-dev-utils
 npm start 
 ```
-( I actually dont think this will work yet I've used a couple librarys that I don't know if will come straight through the dependency file or not.
-When the core logic works I will make sure this does too.)
-I will also be cleaning a lot of the little error messages. and maybe the form validation.
