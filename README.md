@@ -18,3 +18,5 @@ cd ReactContactList
 npm install react-dev-utils
 npm start 
 ```
+react's default port is 3000 
+navigate to: "localhost:3000" in your favorite web browser
