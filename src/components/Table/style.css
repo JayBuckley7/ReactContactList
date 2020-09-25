@@ -1,0 +1,28 @@
+.tab {
+  width: 80vw !important;
+}
+.tabHead {
+  padding-bottom: 1vw;
+  display: flex !important;
+  align-items: center !important;
+  justify-content: space-between !important;
+}
+.btnBox {
+  margin-right: -6vw;
+  display: flex !important;
+  justify-content: flex-end;
+}
+.searchInput {
+  width: 30vw;
+  outline: none;
+  padding: 5px 1vw;
+  border-radius: 3rem;
+  border: 1px solid gainsboro;
+}
+.searchInput:hover {
+  box-shadow: 0 0 3px gainsboro;
+}
+.btn {
+  margin-left: 1vw !important;
+  margin-right: -1vw !important;
+}
